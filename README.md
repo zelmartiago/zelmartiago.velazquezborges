@@ -1,7 +1,7 @@
-# Zelmartiago Velázquez Borges
+# Zelmar Tiago Velázquez Borges
 ## Strategic IT Operations Leader | Agile Project Manager | Business Partner
 
-### 🏆 Certificaciones Profesionales (Validables)
+### 🏆 Certificaciones Profesionales
 [![Google IT Support](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/5DRTIC5GXGOV)
 [![Google Project Management](https://img.shields.io/badge/Google-Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/LEGQWYCSRO8V)
 [![Google Network Security](https://img.shields.io/badge/Google-Network_Security-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/369602Y4SPDX)
