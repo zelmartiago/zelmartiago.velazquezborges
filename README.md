@@ -1,50 +1,125 @@
+<div align="center">
+
+![Español](https://img.shields.io/badge/Español-ff5733?style=for-the-badge) 
 # Zelmar Tiago Velázquez Borges
-## Strategic IT Operations Leader | Agile Project Manager | Full-Stack Infrastructure Expert
+
+## Líder Estratégico de Operaciones IT | Project Manager Ágil | Experto en Infraestructura Full-Stack
+
+</div>
 
 ### 🏆 Certificaciones Profesionales
-[![Google IT Support](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/5DRTIC5GXGOV)
-[![Google Project Management](https://img.shields.io/badge/Google-Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/LEGQWYCSRO8V)
-[![Google Network Security](https://img.shields.io/badge/Google-Network_Security-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/369602Y4SPDX)
-[![English Proficiency ](https://img.shields.io/badge/University_of_Michigan_-_English_(B2)-34A853?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zelmar-tiago-velazquez-borges/details/certifications/)
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/5DRTIC5GXGOV">
+    <img src="https://img.shields.io/badge/Google-Soporte_IT-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/LEGQWYCSRO8V">
+    <img src="https://img.shields.io/badge/Google-Gestión_de_Proyectos-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/369602Y4SPDX">
+    <img src="https://img.shields.io/badge/Google-Seguridad_de_Redes-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/zelmar-tiago-velazquez-borges/details/certifications/">
+    <img src="https://img.shields.io/badge/Universidad_de_Michigan-Inglés_ECCE_(B2)-34A853?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+### 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zelmar-tiago-velazquez-borges) [![Email](https://img.shields.io/badge/Email-zelmar.tiago@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zelmar.tiago@gmail.com)
 
 ---
 
 ### 👨‍💻 Perfil Profesional
-Profesional IT con más de **15 años de trayectoria** cubriendo el ciclo de vida completo de la tecnología. Desde el despliegue físico en **Data Centers Tier III** y redes **FTTH**, hasta el desarrollo de software y la implementación de **IA Generativa**. 
+Profesional técnico con más de **15 años de trayectoria** cubriendo el ciclo de vida completo de la tecnología. Mi experiencia abarca desde el despliegue físico en **Data Centers Tier III** y redes de telecomunicaciones **FTTH**, hasta el desarrollo de software y la implementación operativa de **Inteligencia Artificial Generativa**. 
 
-Mi diferencial es la capacidad de **orquestar proyectos punta a punta**: desde la concepción, presupuestación y arquitectura, hasta la ejecución técnica, automatización y soporte de alta complejidad.
+Mi valor diferencial es la capacidad de **orquestar proyectos de punta a punta**: desde la concepción y presupuestación, hasta la ejecución técnica y soporte de alta complejidad.
 
 ---
 
 ### 🛠️ Ecosistema Técnico (Stack)
 
-| **Infraestructura & Redes** | **Desarrollo & Automatización** | **Gestión & Estrategia** |
+| **Infraestructura y Redes** | **Desarrollo y Automatización** | **Gestión y Estrategia** |
 | :--- | :--- | :--- |
-| **Data Center:** Tier III, Hardware Install, Rack Management. | **Lenguajes:** BASH, SQL, C, C++, VB.Net, JavaScript. | **Agile:** Scrum Master, Kanban, SAFe, OKRs. |
-| **Networking:** LAN/WAN, Modelo OSI, Routers, Switches. | **Web:** HTML5, CSS3, Frontend Fundamentals. | **Project Lifecycle:** Budgeting, Documentation, Planning. |
-| **Telco:** FTTH, Modems, ONTs, Internet Services. | **AI Agents:** Gemini, Claude, Copilot, ChatGPT, Antigravity. | **Leadership:** Strategic Business Partner, Coaching FIFA A. |
-| **Virtualización:** Hyper-V, VMware. | **OS:** Linux (Cronjobs), Windows (Task Scheduler). | **Compliance:** SLA 100%, ITIL, RCA. |
+| **Data Center:** Tier III, Hardware, Racks. | **Lenguajes:** BASH, SQL, C, C++, VB.Net, JS. | **Agilidad:** Scrum Master, Kanban, SAFe. |
+| **Networking:** OSI, Routers, Switches. | **Web:** HTML5, CSS3, Frontend. | **Ciclo:** Presupuesto, Doc, Planificación. |
+| **Telco:** FTTH, Módems, ONTs. | **Agentes IA:** Gemini, Claude, Copilot. | **Liderazgo:** Business Partner, Coach FIFA A. |
+| **Virtualización:** Hyper-V, VMware. | **Sistemas:** Linux (Cron), Windows (Tasks). | **Cumplimiento:** SLAs 100%, ITIL, RCA. |
 
 ---
 
-### 🚀 Capacidades Core
-* **End-to-End Project Management:** Capacidad demostrada para idear, presupuestar y ejecutar infraestructuras críticas.
-* **Hybrid Automation:** Implementación de flujos de automatización que conectan hardware, software y servicios de red.
-* **Expertise en Capa Física y Lógica:** Resolución de problemas desde el nivel de cableado y fibra hasta la optimización de consultas MySQL y lógica en C++.
-* **IA-Driven Efficiency:** Uso avanzado de agentes de IA para acelerar el desarrollo de software y la documentación técnica.
+### 🚀 Capacidades Principales
+* **Gestión de Proyectos Integral:** Ideación y ejecución de infraestructuras críticas.
+* **Automatización Híbrida:** Conexión entre hardware físico y flujos de software.
+* **Experto en Capas Física y Lógica:** Resolución desde fibra óptica hasta lógica en C++.
+* **Eficiencia Impulsada por IA:** Uso avanzado de agentes para acelerar la entrega técnica.
 
 ---
 
-### 🎓 Educación & Formación
-* **Licenciatura A - Entrenador de Fútbol FIFA** | *Ministerio de Educación y Cultura - IUACJ* (Liderazgo y Estrategia).
+### 🎓 Educación y Formación
+* **Licencia A - Entrenador de Fútbol FIFA** | *MEC - IUACJ* (Liderazgo y Estrategia).
 * **Tecnólogo en Informática** | *UdelaR / UTU* (100+ créditos aprobados).
 * **Bachiller Tecnológico en Informática** | *UTU*.
 
 ---
 
-### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zelmar_Tiago-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zelmar-tiago-velazquez-borges)
-[![Email](https://img.shields.io/badge/Email-zelmar.tiago@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zelmar.tiago@gmail.com)
+<br>
+
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-3377ff?style=for-the-badge) 
+# Zelmar Tiago Velázquez Borges
+
+## Strategic IT Operations Leader | Agile Project Manager | Full-Stack Infrastructure Expert
+
+</div>
+
+### 🏆 Profesional Certifications
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/5DRTIC5GXGOV">
+    <img src="https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/LEGQWYCSRO8V">
+    <img src="https://img.shields.io/badge/Google-Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/369602Y4SPDX">
+    <img src="https://img.shields.io/badge/Google-Network_Security-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/zelmar-tiago-velazquez-borges/details/certifications/">
+    <img src="https://img.shields.io/badge/University_of_Michigan_-English_ECCE_(B2)-34A853?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conect_me-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zelmar-tiago-velazquez-borges) [![Email](https://img.shields.io/badge/Email-zelmar.tiago@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zelmar.tiago@gmail.com)
+
+### 👨‍💻 Professional Profile
+IT Professional with over **15 years of experience** covering the complete technology lifecycle. Expert in **Tier III Data Centers**, **FTTH** networks, and **Generative AI** implementation. My focus is orchestrating end-to-end projects, from budgeting to high-complexity technical support.
 
 ---
-*“Dominio total del stack tecnológico: desde el silicio y la fibra hasta el código y la estrategia de negocio.”*
+
+### 🛠️ Technical Ecosystem (Stack)
+
+| **Infrastructure & Networking** | **Development & Automation** | **Management & Strategy** |
+| :--- | :--- | :--- |
+| **Data Center:** Tier III, Hardware, Racks. | **Languages:** BASH, SQL, C, C++, VB.Net, JS. | **Agile:** Scrum Master, Kanban, SAFe. |
+| **Networking:** OSI, Routers, Switches. | **Web:** HTML5, CSS3, Frontend. | **Lifecycle:** Budgeting, Doc, Planning. |
+| **Telco:** FTTH, Modems, ONTs. | **AI Agents:** Gemini, Claude, Copilot. | **Leadership:** Business Partner, Coach FIFA A. |
+| **Virtualization:** Hyper-V, VMware. | **Systems:** Linux (Cron), Windows (Tasks). | **Compliance:** 100% SLA, ITIL, RCA. |
+
+---
+
+### 🚀 Core Capabilities
+* **End-to-End Project Management:** Critical infrastructure execution aligned with business goals.
+* **Hybrid Automation:** Bridging physical hardware and software workflows.
+* **Full-Layer Expertise:** Problem-solving from cabling to complex C++ logic.
+* **AI-Driven Efficiency:** Leveraging AI agents for technical delivery.
+
+---
+
+### 🎓 Education & Training
+* **FIFA A License - Football Coach** | *MEC - IUACJ* (Leadership & Strategy).
+* **Informatics Technologist** | *UdelaR / UTU* (100+ credits).
+* **Technical Bachelor in Informatics** | *UTU*.
+
+---
+*“Total mastery of the technology stack: from silicon and fiber to code and business strategy.”*
