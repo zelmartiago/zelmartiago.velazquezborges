@@ -1,48 +1,48 @@
-# zelmartiago.velazquezborges
-IT Operations Leader | Strategic Problem Solver 🔹 Operaciones de IT de alta resiliencia. 🔹 Gestión de Activos &amp; SLAs. 🔹 Liderazgo Ágil (Scrum/Kanban). 🔹 Resolución de crisis en infraestructura crítica. Simplificando procesos complejos. 🔹
-
 # Zelmartiago Velázquez Borges
 ## Strategic IT Operations Leader | Agile Project Manager | Business Partner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zelmar-tiago-velazquez-borges)
-[![Google Certified](https://img.shields.io/badge/Google-Project_Management_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/verify/professional-cert/your-id)
-[![Security](https://img.shields.io/badge/Google-Network_Security-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/verify/professional-cert/your-id)
-
-### 🎯 Visión Profesional
-Profesional polifacético con más de **15 años de experiencia** en infraestructuras de misión crítica y entornos de alta presión. Mi perfil combina la profundidad técnica de un especialista en **Data Centers (Tier III)** con la visión estratégica de un **Strategic Business Partner**. Experto en navegar la ambigüedad, optimizar flujos de trabajo multi-stakeholder y garantizar la resiliencia operativa alineada con los objetivos de negocio.
-
----
-
-### 🛠️ Core Expertise
-
-| **Liderazgo Operativo** | **Estrategia & Agilidad** | **Infraestructura & Seguridad** |
-| :--- | :--- | :--- |
-| Orquestación de equipos L1/L2/L3 | Agile (Scrum/Kanban) & OKRs | Data Center Operations (Tier III) |
-| Gestión de Stakeholders Globales | Diseño de flujos organizacionales | Network Security & SRE Culture |
-| Gobernanza de Activos (Jira/CMMS) | Optimización de presupuestos/SLA | Incident Response & Root Cause Analysis |
+### 🏆 Certificaciones Profesionales (Validables)
+[![Google IT Support](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/5DRTIC5GXGOV)
+[![Google Project Management](https://img.shields.io/badge/Google-Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/LEGQWYCSRO8V)
+[![Google Network Security](https://img.shields.io/badge/Google-Network_Security-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/369602Y4SPDX)
+[![English Proficiency](https://img.shields.io/badge/English-University_of_Michigan_B2-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zelmar-tiago-velazquez-borges/details/certifications/)
 
 ---
 
-### 📈 Impacto Comprobado
-* **Strategic Partnership:** Actué como "Thought Partner" para direcciones de IT, gestionando la logística compleja y la optimización de calendarios ejecutivos en entornos globales.
-* **Operational Excellence:** Lideré la migración y estandarización de activos críticos en UTE, simplificando la toma de decisiones basada en datos.
-* **Global Support:** Cumplimiento del 100% de SLA para líderes tecnológicos globales (Microsoft via TCS), resolviendo el 65% de incidentes complejos en el primer contacto.
-* **Leadership & Pedagogy:** Licenciado FIFA A y más de 25 años en el Movimiento Scout, aplicando liderazgo servil y gestión de conflictos en equipos de alto rendimiento.
+### 👨‍💻 Perfil Profesional
+Profesional de TI con más de **15 años de experiencia** en infraestructuras de misión crítica y entornos de alta presión. Mi perfil combina la profundidad técnica de un especialista en **Data Centers (Tier III)** con la visión estratégica de un **Agile Project Manager**. Experto en navegar la ambigüedad, optimizar flujos de trabajo y garantizar el cumplimiento de SLAs bajo presión extrema.
 
 ---
 
-### 📂 Proyectos en este Repositorio
-* **/Agile-Frameworks:** Plantillas de gestión de proyectos y flujos Jira.
-* **/IT-Ops-Automation:** Scripts y documentación para optimización de procesos técnicos.
-* **/Technical-Writing:** Guías sobre cultura SRE y seguridad de redes.
+### 🚀 Impacto & Expertise
+* **Process Optimization:** Diseño de flujos operativos y diagramas técnicos que eliminan la fricción en equipos L1/L2/L3.
+* **Agile Leadership:** Facilitación de ceremonias Scrum y gestión de stakeholders bajo marcos Scrum, Kanban y SAFe.
+* **Asset Governance:** Migración y centralización de activos críticos hacia sistemas CMMS (Jira/Maximo).
+* **Crisis Management:** Resolución metódica de incidentes complejos (65% resolución en primer contacto).
 
 ---
 
-### 🎓 Formación Destacada (2025)
-* **Google Project Management Professional Certificate** (Especialización en Agile/Scrum).
-* **Google Network Security & IT Support Professional.**
-* **Developing a Google SRE Culture** (Reliability & Continuous Improvement).
-* **Tecnólogo en Informática** (UdelaR/UTU - En curso, 100+ créditos).
+### 🎓 Educación
+* **Licenciatura A - Entrenador de Fútbol FIFA** | *Ministerio de Educación y Cultura - IUACJ*
+  - Enfoque en pedagogía, planificación estratégica compleja y liderazgo de equipos de alto rendimiento.
+* **Bachiller Tecnológico en Informática** | *UTU - Dirección General de Educación Técnico-Profesional*
+  - Fundamentos sólidos en lógica de sistemas, infraestructura de hardware y redes.
+* **Tecnólogo en Informática** | *UdelaR / UTU* (En curso, 100+ créditos aprobados).
+
+---
+
+### 🛠️ Stack Tecnológico
+| **Gestión & Agilidad** | **Operaciones & Seguridad** |
+| :--- | :--- |
+| Jira Admin, Confluence, Slack | Data Center Tier III, ITIL, RCA |
+| Scrum, Kanban, OKRs | Network Security, SRE Culture |
+| Strategic Planning, Coaching | Linux Shell Scripting, Active Directory |
+
+---
+
+### 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zelmar_Tiago-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zelmar-tiago-velazquez-borges)
+[![Email](https://img.shields.io/badge/Email-zelmar.tiago@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zelmar.tiago@gmail.com)
 
 ---
 *“Transformando la infraestructura crítica en una ventaja estratégica mediante la agilidad y la excelencia operativa.”*
