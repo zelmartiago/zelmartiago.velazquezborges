@@ -49,7 +49,7 @@ Mi valor diferencial es la capacidad de **orquestar proyectos de punta a punta**
 ### 🚀 Capacidades Principales
 * **Gestión de Proyectos Integral:** Ideación y ejecución de infraestructuras críticas.
 * **Automatización Híbrida:** Conexión entre hardware físico y flujos de software.
-* **Experto en Capas Física y Lógica:** Resolución desde fibra óptica hasta lógica en C++.
+* **Experto en Capas Física y Lógica:** Resolución desde fibra óptica hasta lógica compleja en programación.
 * **Eficiencia Impulsada por IA:** Uso avanzado de agentes para acelerar la entrega técnica.
 
 ---
@@ -111,7 +111,7 @@ IT Professional with over **15 years of experience** covering the complete techn
 ### 🚀 Core Capabilities
 * **End-to-End Project Management:** Critical infrastructure execution aligned with business goals.
 * **Hybrid Automation:** Bridging physical hardware and software workflows.
-* **Full-Layer Expertise:** Problem-solving from cabling to complex C++ logic.
+* **Full-Layer Expertise:** Problem-solving from cabling to complex programatic logic.
 * **AI-Driven Efficiency:** Leveraging AI agents for technical delivery.
 
 ---
