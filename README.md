@@ -39,10 +39,11 @@ Mi valor diferencial es la capacidad de **orquestar proyectos de punta a punta**
 
 | **Infraestructura y Redes** | **Desarrollo y Automatización** | **Gestión y Estrategia** |
 | :--- | :--- | :--- |
-| **Data Center:** Tier III, Hardware, Racks. | **Lenguajes:** BASH, SQL, C, C++, VB.Net, JS. | **Agilidad:** Scrum Master, Kanban, SAFe. |
-| **Networking:** OSI, Routers, Switches. | **Web:** HTML5, CSS3, Frontend. | **Ciclo:** Presupuesto, Doc, Planificación. |
+| **Data Center:** Tier III, Hardware, Racks. | **Lenguajes:** HTML, CSS. | **Agilidad:** Scrum Master, Kanban, SAFe. |
+| **Networking:** OSI, Routers, Switches. | **Web:** Figma, Nginx, Adobe, TLS/SSL. | **Ciclo:** Presupuesto, Doc, Planificación. |
 | **Telco:** FTTH, Módems, ONTs. | **Agentes IA:** Gemini, Claude, Copilot. | **Liderazgo:** Business Partner, Coach FIFA A. |
 | **Virtualización:** Hyper-V, VMware. | **Sistemas:** Linux (Cron), Windows (Tasks). | **Cumplimiento:** SLAs 100%, ITIL, RCA. |
+
 
 ---
 
@@ -101,8 +102,8 @@ IT Professional with over **15 years of experience** covering the complete techn
 
 | **Infrastructure & Networking** | **Development & Automation** | **Management & Strategy** |
 | :--- | :--- | :--- |
-| **Data Center:** Tier III, Hardware, Racks. | **Languages:** BASH, SQL, C, C++, VB.Net, JS. | **Agile:** Scrum Master, Kanban, SAFe. |
-| **Networking:** OSI, Routers, Switches. | **Web:** HTML5, CSS3, Frontend. | **Lifecycle:** Budgeting, Doc, Planning. |
+| **Data Center:** Tier III, Hardware, Racks. | **Languages:** BASH, SQL, HTML, CSS. | **Agile:** Scrum Master, Kanban, SAFe. |
+| **Networking:** OSI, Routers, Switches. | **Web:** Figma, Adobe, Nginx, TLS/SSL. | **Lifecycle:** Budgeting, Doc, Planning. |
 | **Telco:** FTTH, Modems, ONTs. | **AI Agents:** Gemini, Claude, Copilot. | **Leadership:** Business Partner, Coach FIFA A. |
 | **Virtualization:** Hyper-V, VMware. | **Systems:** Linux (Cron), Windows (Tasks). | **Compliance:** 100% SLA, ITIL, RCA. |
 
