@@ -39,7 +39,7 @@ Mi valor diferencial es la capacidad de **orquestar proyectos de punta a punta**
 
 | **Infraestructura y Redes** | **Desarrollo y Automatización** | **Gestión y Estrategia** |
 | :--- | :--- | :--- |
-| **Data Center:** Tier III, Hardware, Racks. | **Lenguajes:** HTML, CSS. | **Agilidad:** Scrum Master, Kanban, SAFe. |
+| **Data Center:** Tier III, Hardware, Racks. | **Lenguajes:** BASH, SQL, HTML, CSS. | **Agilidad:** Scrum Master, Kanban, SAFe. |
 | **Networking:** OSI, Routers, Switches. | **Web:** Figma, Nginx, Adobe, TLS/SSL. | **Ciclo:** Presupuesto, Doc, Planificación. |
 | **Telco:** FTTH, Módems, ONTs. | **Agentes IA:** Gemini, Claude, Copilot. | **Liderazgo:** Business Partner, Coach FIFA A. |
 | **Virtualización:** Hyper-V, VMware. | **Sistemas:** Linux (Cron), Windows (Tasks). | **Cumplimiento:** SLAs 100%, ITIL, RCA. |
