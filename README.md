@@ -122,4 +122,4 @@ IT Professional with over **15 years of experience** covering the complete techn
 * **Technical Bachelor in Informatics** | *UTU*.
 
 ---
-*“Total mastery of the technology stack: from silicon and fiber to code and business strategy.”*
+*“Total mastery of the technology stack: from networks to code and business strategy.”*
